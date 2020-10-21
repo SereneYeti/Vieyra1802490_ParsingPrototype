@@ -105,7 +105,7 @@ namespace Vieyra1802490_ParsingPrototype
 
             output += "You use the " + useObject + " on the " + targetObject;
 
-            //Another Dictionary of Use Methods
+            //Another Dictionary of Use Methods <-- Neater
             //      OR
             //Just add game Code
             if(targetObject == "chest" && useObject == "key")
